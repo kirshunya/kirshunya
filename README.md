@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on App for CryptoCurrencies arbitration on Android & IOS<br>🌱 I’m currently learning Golang language<br>⚡ Fun fact - I'm backend developer in "Wowtika" 
+🔭 I’m currently working on App for CryptoCurrencies arbitration on Android & IOS<br>🌱 I’m currently learning Golang language<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kirshunya&limit=5&theme=dark&combine_all_yearly_contributions=true)
